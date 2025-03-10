@@ -16,14 +16,14 @@ The tool elaborates the percentage of land covered by tree canopy within a custo
 
 # Output data requirements
 
-* Input dataset "City addresses" dataset with the addition of the following fields:
+* Input dataset "City addresses" with the addition of the following fields:
    * "percentuale_copertura": the percentage of land covered by tree canopy within the radial buffer
    * "is_30": the boolean flag, true if the percentage of tree canopy cover equals or exceeds 30%
 
 
 # Objective
 
-The purpose is to support decision makers by identifying the addresses where the criterion is met and the ones where it is not met, and by what amount.
+The purpose is to support decision makers planning to improve the liveability of cities by identifying the addresses where the criterion is met and the ones where it is not met, and by what amount.
 
 
 # Use of resource

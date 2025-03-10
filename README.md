@@ -6,7 +6,7 @@ The tool elaborates the percentage of land covered by tree canopy within a custo
 # Input data requirements
 
 * City addresses, vector dataset with point geometry
-* Tree canopy cover map
+* Tree canopy cover, raster map
 * Model parameters:
    * spatial reference system of the tree canopy cover map
    * optional threshold to apply to the values of the tree canopy cover map
